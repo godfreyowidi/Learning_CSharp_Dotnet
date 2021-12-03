@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\LambdasCollections\bin\Debug\net5.0\LambdasCollections.exe
+C:\Users\user\Desktop\LambdasCollections\bin\Debug\net5.0\LambdasCollections.deps.json
+C:\Users\user\Desktop\LambdasCollections\bin\Debug\net5.0\LambdasCollections.runtimeconfig.json
+C:\Users\user\Desktop\LambdasCollections\bin\Debug\net5.0\LambdasCollections.runtimeconfig.dev.json
+C:\Users\user\Desktop\LambdasCollections\bin\Debug\net5.0\LambdasCollections.dll
+C:\Users\user\Desktop\LambdasCollections\bin\Debug\net5.0\ref\LambdasCollections.dll
+C:\Users\user\Desktop\LambdasCollections\bin\Debug\net5.0\LambdasCollections.pdb
+C:\Users\user\Desktop\LambdasCollections\obj\Debug\net5.0\LambdasCollections.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LambdasCollections\obj\Debug\net5.0\LambdasCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LambdasCollections\obj\Debug\net5.0\LambdasCollections.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LambdasCollections\obj\Debug\net5.0\LambdasCollections.AssemblyInfo.cs
+C:\Users\user\Desktop\LambdasCollections\obj\Debug\net5.0\LambdasCollections.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LambdasCollections\obj\Debug\net5.0\LambdasCollections.dll
+C:\Users\user\Desktop\LambdasCollections\obj\Debug\net5.0\ref\LambdasCollections.dll
+C:\Users\user\Desktop\LambdasCollections\obj\Debug\net5.0\LambdasCollections.pdb
+C:\Users\user\Desktop\LambdasCollections\obj\Debug\net5.0\LambdasCollections.genruntimeconfig.cache

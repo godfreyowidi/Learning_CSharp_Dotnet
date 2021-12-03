@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\FuncAction\bin\Debug\net5.0\FuncAction.exe
+C:\Users\user\Desktop\FuncAction\bin\Debug\net5.0\FuncAction.deps.json
+C:\Users\user\Desktop\FuncAction\bin\Debug\net5.0\FuncAction.runtimeconfig.json
+C:\Users\user\Desktop\FuncAction\bin\Debug\net5.0\FuncAction.runtimeconfig.dev.json
+C:\Users\user\Desktop\FuncAction\bin\Debug\net5.0\FuncAction.dll
+C:\Users\user\Desktop\FuncAction\bin\Debug\net5.0\ref\FuncAction.dll
+C:\Users\user\Desktop\FuncAction\bin\Debug\net5.0\FuncAction.pdb
+C:\Users\user\Desktop\FuncAction\obj\Debug\net5.0\FuncAction.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FuncAction\obj\Debug\net5.0\FuncAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FuncAction\obj\Debug\net5.0\FuncAction.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FuncAction\obj\Debug\net5.0\FuncAction.AssemblyInfo.cs
+C:\Users\user\Desktop\FuncAction\obj\Debug\net5.0\FuncAction.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FuncAction\obj\Debug\net5.0\FuncAction.dll
+C:\Users\user\Desktop\FuncAction\obj\Debug\net5.0\ref\FuncAction.dll
+C:\Users\user\Desktop\FuncAction\obj\Debug\net5.0\FuncAction.pdb
+C:\Users\user\Desktop\FuncAction\obj\Debug\net5.0\FuncAction.genruntimeconfig.cache

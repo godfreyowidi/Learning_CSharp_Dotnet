@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\DelegatesLambdas\bin\Debug\net5.0\Desktop.exe
+C:\Users\user\Desktop\DelegatesLambdas\bin\Debug\net5.0\Desktop.deps.json
+C:\Users\user\Desktop\DelegatesLambdas\bin\Debug\net5.0\Desktop.runtimeconfig.json
+C:\Users\user\Desktop\DelegatesLambdas\bin\Debug\net5.0\Desktop.runtimeconfig.dev.json
+C:\Users\user\Desktop\DelegatesLambdas\bin\Debug\net5.0\Desktop.dll
+C:\Users\user\Desktop\DelegatesLambdas\bin\Debug\net5.0\ref\Desktop.dll
+C:\Users\user\Desktop\DelegatesLambdas\bin\Debug\net5.0\Desktop.pdb
+C:\Users\user\Desktop\DelegatesLambdas\obj\Debug\net5.0\Desktop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DelegatesLambdas\obj\Debug\net5.0\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DelegatesLambdas\obj\Debug\net5.0\Desktop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DelegatesLambdas\obj\Debug\net5.0\Desktop.AssemblyInfo.cs
+C:\Users\user\Desktop\DelegatesLambdas\obj\Debug\net5.0\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DelegatesLambdas\obj\Debug\net5.0\Desktop.dll
+C:\Users\user\Desktop\DelegatesLambdas\obj\Debug\net5.0\ref\Desktop.dll
+C:\Users\user\Desktop\DelegatesLambdas\obj\Debug\net5.0\Desktop.pdb
+C:\Users\user\Desktop\DelegatesLambdas\obj\Debug\net5.0\Desktop.genruntimeconfig.cache
