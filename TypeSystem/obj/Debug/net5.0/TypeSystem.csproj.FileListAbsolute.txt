@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Learning C#\TypeSystem\bin\Debug\net5.0\TypeSystem.exe
+C:\Users\user\Desktop\Learning C#\TypeSystem\bin\Debug\net5.0\TypeSystem.deps.json
+C:\Users\user\Desktop\Learning C#\TypeSystem\bin\Debug\net5.0\TypeSystem.runtimeconfig.json
+C:\Users\user\Desktop\Learning C#\TypeSystem\bin\Debug\net5.0\TypeSystem.runtimeconfig.dev.json
+C:\Users\user\Desktop\Learning C#\TypeSystem\bin\Debug\net5.0\TypeSystem.dll
+C:\Users\user\Desktop\Learning C#\TypeSystem\bin\Debug\net5.0\ref\TypeSystem.dll
+C:\Users\user\Desktop\Learning C#\TypeSystem\bin\Debug\net5.0\TypeSystem.pdb
+C:\Users\user\Desktop\Learning C#\TypeSystem\obj\Debug\net5.0\TypeSystem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Learning C#\TypeSystem\obj\Debug\net5.0\TypeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Learning C#\TypeSystem\obj\Debug\net5.0\TypeSystem.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Learning C#\TypeSystem\obj\Debug\net5.0\TypeSystem.AssemblyInfo.cs
+C:\Users\user\Desktop\Learning C#\TypeSystem\obj\Debug\net5.0\TypeSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Learning C#\TypeSystem\obj\Debug\net5.0\TypeSystem.dll
+C:\Users\user\Desktop\Learning C#\TypeSystem\obj\Debug\net5.0\ref\TypeSystem.dll
+C:\Users\user\Desktop\Learning C#\TypeSystem\obj\Debug\net5.0\TypeSystem.pdb
+C:\Users\user\Desktop\Learning C#\TypeSystem\obj\Debug\net5.0\TypeSystem.genruntimeconfig.cache
