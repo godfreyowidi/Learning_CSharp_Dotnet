@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace TypeSystem
 {
@@ -34,13 +35,14 @@ namespace TypeSystem
 
             // Struct or class
 
-            void DoSomething();
+            //void DoSomething();
             {
                 var dt = new DateTime();
                 var dt2 = dt;
 
                 var sb = new StringBuilder();
                 var sb2 = sb;
+
             }
 
             // gabbage collector -> monitors the memory - finalizers
