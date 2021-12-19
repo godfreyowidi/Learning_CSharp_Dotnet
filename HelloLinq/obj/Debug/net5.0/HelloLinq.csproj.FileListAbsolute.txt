@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Learning C#\HelloLinq\bin\Debug\net5.0\HelloLinq.exe
+C:\Users\user\Desktop\Learning C#\HelloLinq\bin\Debug\net5.0\HelloLinq.deps.json
+C:\Users\user\Desktop\Learning C#\HelloLinq\bin\Debug\net5.0\HelloLinq.runtimeconfig.json
+C:\Users\user\Desktop\Learning C#\HelloLinq\bin\Debug\net5.0\HelloLinq.runtimeconfig.dev.json
+C:\Users\user\Desktop\Learning C#\HelloLinq\bin\Debug\net5.0\HelloLinq.dll
+C:\Users\user\Desktop\Learning C#\HelloLinq\bin\Debug\net5.0\ref\HelloLinq.dll
+C:\Users\user\Desktop\Learning C#\HelloLinq\bin\Debug\net5.0\HelloLinq.pdb
+C:\Users\user\Desktop\Learning C#\HelloLinq\obj\Debug\net5.0\HelloLinq.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Learning C#\HelloLinq\obj\Debug\net5.0\HelloLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Learning C#\HelloLinq\obj\Debug\net5.0\HelloLinq.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Learning C#\HelloLinq\obj\Debug\net5.0\HelloLinq.AssemblyInfo.cs
+C:\Users\user\Desktop\Learning C#\HelloLinq\obj\Debug\net5.0\HelloLinq.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Learning C#\HelloLinq\obj\Debug\net5.0\HelloLinq.dll
+C:\Users\user\Desktop\Learning C#\HelloLinq\obj\Debug\net5.0\ref\HelloLinq.dll
+C:\Users\user\Desktop\Learning C#\HelloLinq\obj\Debug\net5.0\HelloLinq.pdb
+C:\Users\user\Desktop\Learning C#\HelloLinq\obj\Debug\net5.0\HelloLinq.genruntimeconfig.cache
